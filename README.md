@@ -35,3 +35,20 @@ This repository features an AI-driven, expert decision-support web application t
 ```bash
 git clone [https://github.com/haouchineyoucef/zakat_ai_system.git](https://github.com/haouchineyoucef/zakat_ai_system.git)
 cd zakat_ai_system
+2. تثبيت الحزم والمكتبات البرمجية (Install Dependencies)
+تأكد من وجود بيئة بايثون (Python 3.9+) مثبتة، ثم نفذ الأمر التالي:
+
+Bash
+pip install -r requirements.txt
+3. إطلاق المنصة (Run the Application)
+Bash
+streamlit run zakat_app.py
+📄 الأوراق البحثية والتوثيق (Citation & Academic Context)
+هذه المنظومة تمثل المخرج التطبيقي والتقني للورقة البحثية المعنونة بـ:
+
+"تقييم كفاءة المنصات الذكية في حوكمة الاستحقاق الزكوي: دراسة محاكاة خبيرة باستخدام نماذج الغابات العشوائية والذكاء الاصطناعي القابل للتفسير (XAI)"
+
+إعداد وتطوير الباحث: أ. د. حوشين يوسف (جامعة البليدة 2 - الجزائر).
+
+⚖️ إخلاء المسؤولية والتطوير (Disclaimer)
+⚠️ تنبيه: هذه المنظومة في طورها التجريبي الأولي (Prototype / Beta Version)، وهي مصممة كأداة استشارية داعمة لاتخاذ القرار (Decision Support System) لمساعدة اللجان والمفتشين الاجتماعيين، ولا تعد بديلاً نهائياً عن التقييم الشرعي والبشري المعتمد من الجهات الرسمية.
